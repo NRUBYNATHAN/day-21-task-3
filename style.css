@@ -1,0 +1,17 @@
+body{
+    background-image: url("art.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.art{
+    padding-top: 30px;
+    text-align: center;
+    background-color: lightcyan;
+    color:black;
+    height: 100px;
+
+}
+.container{
+    margin-top: 100px;
+}

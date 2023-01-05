@@ -25,7 +25,7 @@ for(var i = 0;i<12;i++){
     btn.setAttribute("data-bs-target","#collapseOne")
     btn.setAttribute("aria-expanded","true")
     btn.setAttribute("aria-controls","collapseOne")
-    btn.innerText=`TITLE : ${jso.data[i].title}`
+    btn.innerText=`MR : ${jso.data[i].artist_titles}`
 
 
     var cre_div2=document.createElement("div")
